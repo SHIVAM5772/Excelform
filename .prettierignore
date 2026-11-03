@@ -1,0 +1,8 @@
+node_modules/
+.npm-cache/
+dist/
+apps/web/dist/
+test-results/
+playwright-report/
+package-lock.json
+coverage/
